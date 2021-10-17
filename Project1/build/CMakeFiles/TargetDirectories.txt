@@ -1,3 +1,0 @@
-/home/jay/Documents/UdacityCourse/models/build/CMakeFiles/rebuild_cache.dir
-/home/jay/Documents/UdacityCourse/models/build/CMakeFiles/hello.dir
-/home/jay/Documents/UdacityCourse/models/build/CMakeFiles/edit_cache.dir
